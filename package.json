@@ -1,0 +1,14 @@
+{
+  "name": "project-google-recaptcha",
+  "version": "1.0.0",
+  "description": "Implementação do google recaptcha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Renato Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}

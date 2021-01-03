@@ -1,0 +1,24 @@
+{
+  "name": "renatops1991/project-google-recaptcha",
+  "description": "Implementação do Google reCaptcha em seu site para imperdir que robôs façam requisições de dados indesejados",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Renato Pereira",
+      "email": "renatops1991@gmail.com",
+      "homepage": "https://renatodesenvolvedorweb.com.br",
+      "role": "developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "Source\\": "source/"
+    }
+  },
+  "require": {
+    "php": "^7.2"
+  }
+}
